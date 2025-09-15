@@ -155,7 +155,7 @@ const [parms, setParms] = useState<FormParams>({
             </div>
             <div className="md:w-1/2 md:pl-12 text-center md:text-left">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
-                Hi, I'm{" "}
+                Hi, I&apos;m{" "}
                 <span className="bg-gradient-to-r from-purple-400 to-indigo-500 bg-clip-text text-transparent">
                   Aditya Raj
                 </span>
@@ -224,15 +224,15 @@ const [parms, setParms] = useState<FormParams>({
               <div className="md:w-1/2">
                 <h3 className="text-2xl font-semibold mb-4 text-purple-400">Who Am I ??</h3>
                 <p className="text-gray-300 mb-6">
-                  I'm a passionate Full Stack Developer with over 3 years of experience in building web applications. I
+                  I&apos;m a passionate Full Stack Developer with over 3 years of experience in building web applications. I
                   specialize in creating responsive, user-friendly interfaces and robust backend systems.
                 </p>
                 <p className="text-gray-300 mb-6">
-                  My journey in web development began when I was in , and since then, I've worked with various
+                  My journey in web development began when I was in , and since then, I&apos;ve worked with various
                   technologies and frameworks. 
                 </p>
                 <p className="text-gray-300">
-                  When I'm not coding, you can find me travelling, reading tech blogs, watching movies, or experimenting with new
+                  When I&apos;m not coding, you can find me travelling, reading tech blogs, watching movies, or experimenting with new
                   technologies to stay at the forefront of web development.
                 </p>
               </div>
